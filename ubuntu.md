@@ -1,29 +1,29 @@
-- [x] gitkraken
+- [ ] gitkraken
 
-- [x] atom
+- [ ] atom
 
-- [x] kernel
+- [ ] kernel
 
-- [x] flux
+- [ ] flux
 
-- [x] wallpaper
+- [ ] wallpaper
 
-- [x] temp sensor (sensor applet)
+- [ ] temp sensor (sensor applet)
 
-- [x] nvidia x server
+- [ ] nvidia x server
 
-- [x] kernel
+- [ ] kernel
 
-- [x] video capture driver
+- [ ] video capture driver
 
-- [x] matlab
+- [ ] matlab
 
-- [x] synergy
+- [ ] synergy
 
-- [x] vlc
+- [ ] vlc
 
-- [x] byobu
+- [ ] byobu
 
-- [x] ros
+- [ ] ros
 
-- [x] sdl?
+- [ ] sdl?
