@@ -7,8 +7,11 @@
 #       each discovered device
 # $Id: inquiry.py 401 2006-05-05 19:07:48Z albert $
 #
-
+import os
 import bluetooth
+
+print (os.getcwd())
+
 
 print("performing inquiry...")
 
